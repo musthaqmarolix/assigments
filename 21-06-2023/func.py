@@ -5,7 +5,7 @@
 
 #keyword var len arg
 
-# def display(**n):
+# def mywish(**n):
 #     print("information")
 #     for k,v in n.items():
 #         print(k,"......",v)
